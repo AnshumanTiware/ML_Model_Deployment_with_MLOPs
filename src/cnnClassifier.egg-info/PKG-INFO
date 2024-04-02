@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/AnshumanTiware/kidney-disease-classification-w-mlops
+Author: AnshumanTiware
+Author-email: mr.anshumantiwari@gmail.com
+Project-URL: Bug Tracker, https://github.com/AnshumanTiware/kidney-disease-classification-w-mlops/issues
+
+# kidney-disease-classification-w-mlops
